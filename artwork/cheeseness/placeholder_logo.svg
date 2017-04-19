@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="250mm"
+   height="80mm"
+   viewBox="0 0 250 80.000001"
+   version="1.1"
+   id="svg4955"
+   inkscape:version="0.92.1 r"
+   sodipodi:docname="pongball_logo.svg">
+  <defs
+     id="defs4949">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4843"
+       x="-0.013269537"
+       width="1.0265391"
+       y="-0.12542722"
+       height="1.2508544">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25319828"
+         id="feGaussianBlur4845" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4936">
+      <g
+         id="g4956"
+         transform="translate(-43.761918,-16.470831)">
+        <g
+           transform="translate(43.761917,16.530944)"
+           id="g4954"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;line-height:125%;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           aria-label="PONGBALL">
+          <path
+             inkscape:connector-curvature="0"
+             id="path4938"
+             transform="scale(0.26458333)"
+             d="m 106.48047,515.73828 -1.05664,5.28711 h 13.76367 l -0.25586,1.29297 h -13.76758 l -2.3457,11.73047 h 6.57812 l 1.36719,-6.83594 h 8.54492 c 2.94597,-0.057 4.72005,-1.57424 5.32227,-4.55273 l 0.52539,-2.63672 c 0.47201,-2.79145 -0.736,-4.22015 -3.625,-4.28516 z"
+             style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.99999994px" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4940"
+             style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+             d="m 36.579864,139.68571 0.322978,-1.61489 h -1.653646 l -0.322978,1.61489 z m 1.049678,-3.22978 q 1.459859,0 1.140111,1.61489 l -0.322978,1.61489 q -0.326207,1.61489 -1.786067,1.61489 h -2.422332 q -1.4534,0 -1.130422,-1.61489 l 0.322977,-1.61489 q 0.322978,-1.61489 1.766688,-1.61489 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4942"
+             style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+             d="m 40.323175,141.3006 h -1.7247 l 0.968933,-4.84467 h 1.614888 l 1.808675,2.26085 0.452169,-2.26085 h 1.74731 l -0.968934,4.84467 H 42.5711 l -1.792526,-2.26085 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4944"
+             style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+             d="m 46.815029,139.8472 h 1.960474 l 0.0646,-0.32621 h -1.621348 l 0.268071,-1.33713 h 1.999232 q 1.195018,0.003 0.991542,1.08844 l -0.15503,0.76869 q -0.261611,1.25961 -1.459859,1.25961 H 45.98821 q -1.253154,0 -0.994772,-1.29191 l 0.516765,-2.58382 q 0.193786,-0.96894 1.45017,-0.96894 h 2.838974 q 1.230545,0 1.046447,0.96894 l -0.0872,0.42956 -3.543065,-0.003 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4946"
+             style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+             d="m 55.75182,141.3006 3.229777,-4.84467 h 1.937867 l 1.29191,4.84467 h -1.937866 l -0.13888,-0.55875 H 58.0708 l -0.381113,0.55875 z m 3.113505,-1.93787 h 1.01738 l -0.319748,-0.96893 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4948"
+             style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+             d="m 62.511744,141.3006 0.968933,-4.84467 h 1.614888 l -0.662104,3.31052 h 3.229777 l -0.306829,1.53415 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4950"
+             style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+             d="m 67.847338,141.3006 0.968933,-4.84467 h 1.614888 l -0.662104,3.31052 h 3.229777 l -0.306829,1.53415 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4952"
+             transform="scale(0.26458333)"
+             d="m 194.46875,515.73828 -1.0625,5.31055 h 12.85352 l -0.24415,1.25781 H 193.1543 l -0.99805,4.99219 h 12.85937 l -0.24414,1.20898 h -12.85742 l -1.10742,5.54102 h 15.4043 c 2.7181,0 4.41992,-1.62762 5.10351,-4.88281 l 0.36524,-1.83008 c 0.19531,-1.04168 0.0488,-1.85191 -0.43946,-2.42969 0.57781,-0.5941 1.00456,-1.47296 1.28125,-2.63672 l 0.57422,-2.86914 c 0.36621,-2.44142 -0.708,-3.66211 -3.22265,-3.66211 z"
+             style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.99999994px" />
+        </g>
+      </g>
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="407.63939"
+     inkscape:cy="153.44385"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="810"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata4952">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(32.560806,-103.71052)">
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#7f8198;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00364745px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:markers fill stroke;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4770"
+       width="250"
+       height="80"
+       x="-32.560806"
+       y="103.71052"
+       rx="0"
+       ry="0"
+       inkscape:export-xdpi="477.42999"
+       inkscape:export-ydpi="477.42999" />
+    <g
+       id="g5025"
+       transform="matrix(3.7933132,0,0,3.7933132,-264.29796,-446.261)"
+       inkscape:export-xdpi="477.42999"
+       inkscape:export-ydpi="477.42999">
+      <g
+         transform="translate(44.050633,16.759545)"
+         id="text4487-0-3-5-14"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;line-height:125%;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         aria-label="PONGBALL">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4679-9"
+           transform="scale(0.26458333)"
+           d="m 106.48047,515.73828 -1.05664,5.28711 h 13.76367 l -0.25586,1.29297 h -13.76758 l -2.3457,11.73047 h 6.57812 l 1.36719,-6.83594 h 8.54492 c 2.94597,-0.057 4.72005,-1.57424 5.32227,-4.55273 l 0.52539,-2.63672 c 0.47201,-2.79145 -0.736,-4.22015 -3.625,-4.28516 z"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.99999994px" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4662-8"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+           d="m 36.579864,139.68571 0.322978,-1.61489 h -1.653646 l -0.322978,1.61489 z m 1.049678,-3.22978 q 1.459859,0 1.140111,1.61489 l -0.322978,1.61489 q -0.326207,1.61489 -1.786067,1.61489 h -2.422332 q -1.4534,0 -1.130422,-1.61489 l 0.322977,-1.61489 q 0.322978,-1.61489 1.766688,-1.61489 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4664-6"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+           d="m 40.323175,141.3006 h -1.7247 l 0.968933,-4.84467 h 1.614888 l 1.808675,2.26085 0.452169,-2.26085 h 1.74731 l -0.968934,4.84467 H 42.5711 l -1.792526,-2.26085 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4666-2"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+           d="m 46.815029,139.8472 h 1.960474 l 0.0646,-0.32621 h -1.621348 l 0.268071,-1.33713 h 1.999232 q 1.195018,0.003 0.991542,1.08844 l -0.15503,0.76869 q -0.261611,1.25961 -1.459859,1.25961 H 45.98821 q -1.253154,0 -0.994772,-1.29191 l 0.516765,-2.58382 q 0.193786,-0.96894 1.45017,-0.96894 h 2.838974 q 1.230545,0 1.046447,0.96894 l -0.0872,0.42956 -3.543065,-0.003 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4670-2"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+           d="m 55.75182,141.3006 3.229777,-4.84467 h 1.937867 l 1.29191,4.84467 h -1.937866 l -0.13888,-0.55875 H 58.0708 l -0.381113,0.55875 z m 3.113505,-1.93787 h 1.01738 l -0.319748,-0.96893 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4672-5"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+           d="m 62.511744,141.3006 0.968933,-4.84467 h 1.614888 l -0.662104,3.31052 h 3.229777 l -0.306829,1.53415 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4674-2"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+           d="m 67.847338,141.3006 0.968933,-4.84467 h 1.614888 l -0.662104,3.31052 h 3.229777 l -0.306829,1.53415 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4668-3"
+           transform="scale(0.26458333)"
+           d="m 194.46875,515.73828 -1.0625,5.31055 h 12.85352 l -0.24415,1.25781 H 193.1543 l -0.99805,4.99219 h 12.85937 l -0.24414,1.20898 h -12.85742 l -1.10742,5.54102 h 15.4043 c 2.7181,0 4.41992,-1.62762 5.10351,-4.88281 l 0.36524,-1.83008 c 0.19531,-1.04168 0.0488,-1.85191 -0.43946,-2.42969 0.57781,-0.5941 1.00456,-1.47296 1.28125,-2.63672 l 0.57422,-2.86914 c 0.36621,-2.44142 -0.708,-3.66211 -3.22265,-3.66211 z"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.99999994px" />
+      </g>
+      <g
+         transform="translate(43.942257,16.651169)"
+         id="text4487-0-3-5-1-2"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;line-height:125%;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#f6f6f6;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         aria-label="PONGBALL">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4679-0-7"
+           transform="scale(0.26458333)"
+           d="m 106.48047,515.73828 -1.05664,5.28711 h 13.76367 l -0.25586,1.29297 h -13.76758 l -2.3457,11.73047 h 6.57812 l 1.36719,-6.83594 h 8.54492 c 2.94597,-0.057 4.72005,-1.57424 5.32227,-4.55273 l 0.52539,-2.63672 c 0.47201,-2.79145 -0.736,-4.22015 -3.625,-4.28516 z"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f6f6f6;fill-opacity:1;stroke-width:0.99999994px" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4662-0-3"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f6f6f6;fill-opacity:1;stroke-width:0.26458332px"
+           d="m 36.579864,139.68571 0.322978,-1.61489 h -1.653646 l -0.322978,1.61489 z m 1.049678,-3.22978 q 1.459859,0 1.140111,1.61489 l -0.322978,1.61489 q -0.326207,1.61489 -1.786067,1.61489 h -2.422332 q -1.4534,0 -1.130422,-1.61489 l 0.322977,-1.61489 q 0.322978,-1.61489 1.766688,-1.61489 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4664-7-9"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f6f6f6;fill-opacity:1;stroke-width:0.26458332px"
+           d="m 40.323175,141.3006 h -1.7247 l 0.968933,-4.84467 h 1.614888 l 1.808675,2.26085 0.452169,-2.26085 h 1.74731 l -0.968934,4.84467 H 42.5711 l -1.792526,-2.26085 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4666-0-0"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f6f6f6;fill-opacity:1;stroke-width:0.26458332px"
+           d="m 46.815029,139.8472 h 1.960474 l 0.0646,-0.32621 h -1.621348 l 0.268071,-1.33713 h 1.999232 q 1.195018,0.003 0.991542,1.08844 l -0.15503,0.76869 q -0.261611,1.25961 -1.459859,1.25961 H 45.98821 q -1.253154,0 -0.994772,-1.29191 l 0.516765,-2.58382 q 0.193786,-0.96894 1.45017,-0.96894 h 2.838974 q 1.230545,0 1.046447,0.96894 l -0.0872,0.42956 -3.543065,-0.003 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4670-8-1"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f6f6f6;fill-opacity:1;stroke-width:0.26458332px"
+           d="m 55.75182,141.3006 3.229777,-4.84467 h 1.937867 l 1.29191,4.84467 h -1.937866 l -0.13888,-0.55875 H 58.0708 l -0.381113,0.55875 z m 3.113505,-1.93787 h 1.01738 l -0.319748,-0.96893 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4672-1-5"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f6f6f6;fill-opacity:1;stroke-width:0.26458332px"
+           d="m 62.511744,141.3006 0.968933,-4.84467 h 1.614888 l -0.662104,3.31052 h 3.229777 l -0.306829,1.53415 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4674-6-0"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f6f6f6;fill-opacity:1;stroke-width:0.26458332px"
+           d="m 67.847338,141.3006 0.968933,-4.84467 h 1.614888 l -0.662104,3.31052 h 3.229777 l -0.306829,1.53415 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4668-4-6"
+           transform="scale(0.26458333)"
+           d="m 194.46875,515.73828 -1.0625,5.31055 h 12.85352 l -0.24415,1.25781 H 193.1543 l -0.99805,4.99219 h 12.85937 l -0.24414,1.20898 h -12.85742 l -1.10742,5.54102 h 15.4043 c 2.7181,0 4.41992,-1.62762 5.10351,-4.88281 l 0.36524,-1.83008 c 0.19531,-1.04168 0.0488,-1.85191 -0.43946,-2.42969 0.57781,-0.5941 1.00456,-1.47296 1.28125,-2.63672 l 0.57422,-2.86914 c 0.36621,-2.44142 -0.708,-3.66211 -3.22265,-3.66211 z"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f6f6f6;fill-opacity:1;stroke-width:0.99999994px" />
+      </g>
+      <g
+         transform="translate(43.942257,16.651169)"
+         id="text4487-0-3-5-1"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;line-height:125%;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.5;fill:#097dff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4843)"
+         aria-label="PONGBALL">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4679-0"
+           transform="scale(0.26458333)"
+           d="m 106.48047,515.73828 -1.05664,5.28711 h 13.76367 l -0.25586,1.29297 h -13.76758 l -2.3457,11.73047 h 6.57812 l 1.36719,-6.83594 h 8.54492 c 2.94597,-0.057 4.72005,-1.57424 5.32227,-4.55273 l 0.52539,-2.63672 c 0.47201,-2.79145 -0.736,-4.22015 -3.625,-4.28516 z"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#097dff;fill-opacity:1;stroke-width:0.99999994px" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4662-0"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#097dff;fill-opacity:1;stroke-width:0.26458332px"
+           d="m 36.579864,139.68571 0.322978,-1.61489 h -1.653646 l -0.322978,1.61489 z m 1.049678,-3.22978 q 1.459859,0 1.140111,1.61489 l -0.322978,1.61489 q -0.326207,1.61489 -1.786067,1.61489 h -2.422332 q -1.4534,0 -1.130422,-1.61489 l 0.322977,-1.61489 q 0.322978,-1.61489 1.766688,-1.61489 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4664-7"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#097dff;fill-opacity:1;stroke-width:0.26458332px"
+           d="m 40.323175,141.3006 h -1.7247 l 0.968933,-4.84467 h 1.614888 l 1.808675,2.26085 0.452169,-2.26085 h 1.74731 l -0.968934,4.84467 H 42.5711 l -1.792526,-2.26085 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4666-0"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#097dff;fill-opacity:1;stroke-width:0.26458332px"
+           d="m 46.815029,139.8472 h 1.960474 l 0.0646,-0.32621 h -1.621348 l 0.268071,-1.33713 h 1.999232 q 1.195018,0.003 0.991542,1.08844 l -0.15503,0.76869 q -0.261611,1.25961 -1.459859,1.25961 H 45.98821 q -1.253154,0 -0.994772,-1.29191 l 0.516765,-2.58382 q 0.193786,-0.96894 1.45017,-0.96894 h 2.838974 q 1.230545,0 1.046447,0.96894 l -0.0872,0.42956 -3.543065,-0.003 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4670-8"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#097dff;fill-opacity:1;stroke-width:0.26458332px"
+           d="m 55.75182,141.3006 3.229777,-4.84467 h 1.937867 l 1.29191,4.84467 h -1.937866 l -0.13888,-0.55875 H 58.0708 l -0.381113,0.55875 z m 3.113505,-1.93787 h 1.01738 l -0.319748,-0.96893 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4672-1"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#097dff;fill-opacity:1;stroke-width:0.26458332px"
+           d="m 62.511744,141.3006 0.968933,-4.84467 h 1.614888 l -0.662104,3.31052 h 3.229777 l -0.306829,1.53415 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4674-6"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#097dff;fill-opacity:1;stroke-width:0.26458332px"
+           d="m 67.847338,141.3006 0.968933,-4.84467 h 1.614888 l -0.662104,3.31052 h 3.229777 l -0.306829,1.53415 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4668-4"
+           transform="scale(0.26458333)"
+           d="m 194.46875,515.73828 -1.0625,5.31055 h 12.85352 l -0.24415,1.25781 H 193.1543 l -0.99805,4.99219 h 12.85937 l -0.24414,1.20898 h -12.85742 l -1.10742,5.54102 h 15.4043 c 2.7181,0 4.41992,-1.62762 5.10351,-4.88281 l 0.36524,-1.83008 c 0.19531,-1.04168 0.0488,-1.85191 -0.43946,-2.42969 0.57781,-0.5941 1.00456,-1.47296 1.28125,-2.63672 l 0.57422,-2.86914 c 0.36621,-2.44142 -0.708,-3.66211 -3.22265,-3.66211 z"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#097dff;fill-opacity:1;stroke-width:0.99999994px" />
+      </g>
+      <g
+         transform="translate(43.761917,16.530945)"
+         id="text4487-0-3-5-9"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;line-height:125%;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         aria-label="PONGBALL">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4679-7"
+           transform="scale(0.26458333)"
+           d="m 106.48047,515.73828 -1.05664,5.28711 h 13.76367 l -0.25586,1.29297 h -13.76758 l -2.3457,11.73047 h 6.57812 l 1.36719,-6.83594 h 8.54492 c 2.94597,-0.057 4.72005,-1.57424 5.32227,-4.55273 l 0.52539,-2.63672 c 0.47201,-2.79145 -0.736,-4.22015 -3.625,-4.28516 z"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fafafa;fill-opacity:1;stroke-width:0.99999994px" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4662-9"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fafafa;fill-opacity:1;stroke-width:0.26458332px"
+           d="m 36.579864,139.68571 0.322978,-1.61489 h -1.653646 l -0.322978,1.61489 z m 1.049678,-3.22978 q 1.459859,0 1.140111,1.61489 l -0.322978,1.61489 q -0.326207,1.61489 -1.786067,1.61489 h -2.422332 q -1.4534,0 -1.130422,-1.61489 l 0.322977,-1.61489 q 0.322978,-1.61489 1.766688,-1.61489 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4664-2"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fafafa;fill-opacity:1;stroke-width:0.26458332px"
+           d="m 40.323175,141.3006 h -1.7247 l 0.968933,-4.84467 h 1.614888 l 1.808675,2.26085 0.452169,-2.26085 h 1.74731 l -0.968934,4.84467 H 42.5711 l -1.792526,-2.26085 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4666-8"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fafafa;fill-opacity:1;stroke-width:0.26458332px"
+           d="m 46.815029,139.8472 h 1.960474 l 0.0646,-0.32621 h -1.621348 l 0.268071,-1.33713 h 1.999232 q 1.195018,0.003 0.991542,1.08844 l -0.15503,0.76869 q -0.261611,1.25961 -1.459859,1.25961 H 45.98821 q -1.253154,0 -0.994772,-1.29191 l 0.516765,-2.58382 q 0.193786,-0.96894 1.45017,-0.96894 h 2.838974 q 1.230545,0 1.046447,0.96894 l -0.0872,0.42956 -3.543065,-0.003 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4670-9"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fafafa;fill-opacity:1;stroke-width:0.26458332px"
+           d="m 55.75182,141.3006 3.229777,-4.84467 h 1.937867 l 1.29191,4.84467 h -1.937866 l -0.13888,-0.55875 H 58.0708 l -0.381113,0.55875 z m 3.113505,-1.93787 h 1.01738 l -0.319748,-0.96893 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4672-9"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fafafa;fill-opacity:1;stroke-width:0.26458332px"
+           d="m 62.511744,141.3006 0.968933,-4.84467 h 1.614888 l -0.662104,3.31052 h 3.229777 l -0.306829,1.53415 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4674-8"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fafafa;fill-opacity:1;stroke-width:0.26458332px"
+           d="m 67.847338,141.3006 0.968933,-4.84467 h 1.614888 l -0.662104,3.31052 h 3.229777 l -0.306829,1.53415 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4668-9"
+           transform="scale(0.26458333)"
+           d="m 194.46875,515.73828 -1.0625,5.31055 h 12.85352 l -0.24415,1.25781 H 193.1543 l -0.99805,4.99219 h 12.85937 l -0.24414,1.20898 h -12.85742 l -1.10742,5.54102 h 15.4043 c 2.7181,0 4.41992,-1.62762 5.10351,-4.88281 l 0.36524,-1.83008 c 0.19531,-1.04168 0.0488,-1.85191 -0.43946,-2.42969 0.57781,-0.5941 1.00456,-1.47296 1.28125,-2.63672 l 0.57422,-2.86914 c 0.36621,-2.44142 -0.708,-3.66211 -3.22265,-3.66211 z"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fafafa;fill-opacity:1;stroke-width:0.99999994px" />
+      </g>
+      <g
+         clip-path="url(#clipPath4936)"
+         transform="translate(43.761918,16.470831)"
+         id="text4487-0-3-5"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;line-height:125%;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         aria-label="PONGBALL">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4679"
+           d="m 28.233069,136.57416 -0.279569,1.39888 h 3.641638 l -0.0677,0.3421 h -3.642672 l -0.620633,3.10368 h 1.740461 l 0.361736,-1.80867 h 2.260843 c 0.779455,-0.0151 1.248847,-0.41652 1.408184,-1.20458 l 0.139009,-0.69763 c 0.124886,-0.73857 -0.194733,-1.11658 -0.959114,-1.13378 z"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#282828;fill-opacity:1;stroke-width:0.26458332px" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4662"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#282828;fill-opacity:1;stroke-width:0.26458332px"
+           d="m 36.639976,139.80412 0.322978,-1.61489 h -1.653646 l -0.322978,1.61489 z m 1.049678,-3.22978 q 1.459859,0 1.140111,1.61489 l -0.322978,1.61489 q -0.326207,1.61489 -1.786067,1.61489 h -2.422332 q -1.4534,0 -1.130422,-1.61489 l 0.322977,-1.61489 q 0.322978,-1.61489 1.766688,-1.61489 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4664"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#282828;fill-opacity:1;stroke-width:0.26458332px"
+           d="m 40.383287,141.41901 h -1.7247 l 0.968933,-4.84467 h 1.614888 l 1.808675,2.26085 0.452169,-2.26085 h 1.74731 l -0.968934,4.84467 h -1.650416 l -1.792526,-2.26085 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4666"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#282828;fill-opacity:1;stroke-width:0.26458332px"
+           d="m 46.875141,139.96561 h 1.960474 l 0.0646,-0.32621 h -1.621348 l 0.268071,-1.33713 h 1.999232 q 1.195018,0.003 0.991542,1.08844 l -0.15503,0.76869 q -0.261611,1.25961 -1.459859,1.25961 h -2.874501 q -1.253154,0 -0.994772,-1.29191 l 0.516765,-2.58382 q 0.193786,-0.96894 1.45017,-0.96894 h 2.838974 q 1.230545,0 1.046447,0.96894 l -0.0872,0.42956 -3.543065,-0.003 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4670"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#282828;fill-opacity:1;stroke-width:0.26458332px"
+           d="m 55.811932,141.41901 3.229777,-4.84467 h 1.937867 l 1.29191,4.84467 H 60.33362 l -0.13888,-0.55875 h -2.063828 l -0.381113,0.55875 z m 3.113505,-1.93787 h 1.01738 l -0.319748,-0.96893 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4672"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#282828;fill-opacity:1;stroke-width:0.26458332px"
+           d="m 62.571856,141.41901 0.968933,-4.84467 h 1.614888 l -0.662104,3.31052 h 3.229777 l -0.306829,1.53415 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4674"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#282828;fill-opacity:1;stroke-width:0.26458332px"
+           d="m 67.90745,141.41901 0.968933,-4.84467 h 1.614888 l -0.662104,3.31052 h 3.229777 l -0.306829,1.53415 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4668"
+           d="m 51.513301,136.57416 -0.281119,1.40508 h 3.400827 l -0.0646,0.3328 h -3.402891 l -0.264067,1.32085 h 3.402374 l -0.0646,0.31987 h -3.401859 l -0.293005,1.46606 h 4.075721 c 0.719164,0 1.169437,-0.43064 1.350304,-1.29191 l 0.09664,-0.4842 c 0.05168,-0.27562 0.01291,-0.48999 -0.116274,-0.64286 0.152879,-0.15719 0.26579,-0.38972 0.338998,-0.69763 l 0.151929,-0.75913 c 0.09689,-0.64596 -0.187325,-0.96893 -0.85266,-0.96893 z"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.61458349px;font-family:NASDAQER;-inkscape-font-specification:'NASDAQER, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#282828;fill-opacity:1;stroke-width:0.26458332px" />
+      </g>
+    </g>
+  </g>
+</svg>
